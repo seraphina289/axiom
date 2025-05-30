@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Axiom Text Editor - Professional Installation Script
-# Usage: curl -sL https://raw.githubusercontent.com/your-repo/axiom/main/install-axiom.sh | bash
+# Usage: curl -sL https://raw.githubusercontent.com/seraphina289/axiom/main/install-axiom.sh | bash
 
 set -e
 
