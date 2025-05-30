@@ -10,7 +10,7 @@ from .error_handler import ErrorHandler, AxiomError
 from .config import Config
 
 __version__ = "1.0.0"
-__author__ = "Axiom Development Team"
+__author__ = "Lady Seraphina"
 
 __all__ = [
     'AxiomEditor',
