@@ -41,38 +41,4 @@ Supports syntax highlighting for:
 - Go (.go)
 
 ## Installation
-
-### One-Line Installation (Recommended)
-Install Axiom with a single command using our beautiful installer:
-
-```bash
-# Download and run the installer
-curl -sL https://raw.githubusercontent.com/your-repo/axiom/main/install-axiom.sh | bash
-
-# Or run locally if you have the source
-./install-axiom.sh
-```
-
-### Manual Installation
-1. **Clone or download** the Axiom source code
-2. **Run the installer** from the source directory:
-   ```bash
-   chmod +x install-axiom.sh
-   ./install-axiom.sh
-   ```
-
-### Requirements
-- **Python 3.8+** (automatically verified by installer)
-- **Terminal with curses support** (most Unix terminals, Windows Terminal)
-- **10MB disk space** for installation
-
-### Why Axiom is Executable After Installation
-
-The installer creates a proper executable wrapper that:
-- **Resolves Python path automatically** - No need to call `python axiom.py`
-- **Sets up module imports correctly** - All editor components load seamlessly  
-- **Integrates with system PATH** - Available from any directory
-- **Handles permissions properly** - Executable bit set correctly
-- **Works across shell environments** - Bash, Zsh, Fish compatible
-
-The installed `axiom` command is a native executable that launches the Python application with proper module resolution, making it feel like any other system command.
+git clone the repo and run python axiom.py. :) will soon upload the installation script
