@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Axiom Text Editor - Professional Installation Script
+# Axiom Text Editor
 # Usage: curl -sL https://raw.githubusercontent.com/seraphina289/axiom/main/install-axiom.sh | bash
 
 set -e
@@ -398,7 +398,7 @@ main() {
     # Begin installation process
     show_axiom_banner
     
-    echo -e "${MAGENTA}${BOLD}Starting Professional Installation Process${NC}"
+    echo -e "${MAGENTA}${BOLD}Starting Installation Process${NC}"
     echo -e "${MAGENTA}═══════════════════════════════════════════${NC}"
     echo
     
