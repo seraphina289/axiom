@@ -4,3 +4,5 @@ Axiom is a powerful, terminal-based text editor built in Python with a unique co
 
 ## Installation
 git clone the repo and run python axiom.py. :) will soon upload the installation script
+
+![Screenshot](screenshot.png)
